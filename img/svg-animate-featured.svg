@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="840px" height="480px" viewBox="0 0 840 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>svg-animate-featured</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="13.9684862 23.238 18.168 33.378 18.17 33.38 10.958 36.448 6.44921752 25.7669727 0 32.03 0 0 23.182 23.238"></polygon>
+        <filter x="-133.7%" y="-79.6%" width="367.4%" height="270.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.201681386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="svg-animate-featured">
+            <polygon id="bg" fill="#979C9C" points="0 480 840 480 840 0 0 0"></polygon>
+            <g id="desktop" transform="translate(57.000000, 26.000000)">
+                <path d="M726,454 L0,454 L0,6 C0,2.687 2.687,0 6,0 L720,0 C723.313,0 726,2.687 726,6 L726,454 Z" id="container_bg" fill="#303136"></path>
+                <polygon id="body" fill="#F8F8F8" points="0 24 726 24 726 454 1.13686838e-13 454"></polygon>
+                <polygon id="Triangle" stroke="#343642" stroke-width="4" points="489 147 527 191 451 191"></polygon>
+                <g id="dots" transform="translate(15.000000, 8.000000)" fill="#979C9C">
+                    <path d="M8,4 C8,6.209 6.209,8 4,8 C1.791,8 0,6.209 0,4 C0,1.791 1.791,0 4,0 C6.209,0 8,1.791 8,4" id="Fill-6"></path>
+                    <path d="M24,4 C24,6.209 22.209,8 20,8 C17.791,8 16,6.209 16,4 C16,1.791 17.791,0 20,0 C22.209,0 24,1.791 24,4" id="Fill-8"></path>
+                    <path d="M40,4 C40,6.209 38.209,8 36,8 C33.791,8 32,6.209 32,4 C32,1.791 33.791,0 36,0 C38.209,0 40,1.791 40,4" id="Fill-10"></path>
+                </g>
+                <circle id="Oval" stroke="#D7DCE0" stroke-width="4" cx="219" cy="238" r="77"></circle>
+                <path d="M296,238 C296,195.474074 261.525926,161 219,161" id="Oval-Copy" stroke="#982B3C" stroke-width="4"></path>
+                <path d="M460,235 L460,191 M518,191 L518,257" id="Rectangle-2" stroke="#343642" stroke-width="4"></path>
+                <circle id="Oval-2" stroke="#343642" stroke-width="4" cx="489" cy="212" r="10"></circle>
+                <path d="M493,245 L493,313 M423,313 L423,245" id="Rectangle-6" stroke="#343642" stroke-width="4"></path>
+                <rect id="Rectangle-3" stroke="#343642" stroke-width="4" x="418" y="235" width="80" height="10"></rect>
+                <rect id="Rectangle" fill="#223443" x="199" y="218" width="12" height="40" rx="2"></rect>
+                <rect id="Rectangle-Copy" fill="#223443" x="227" y="218" width="12" height="40" rx="2"></rect>
+                <rect id="Rectangle-7" stroke="#343642" stroke-width="4" x="448" y="256" width="20" height="18"></rect>
+                <polyline id="Rectangle-7-Copy" stroke="#343642" stroke-width="4" points="448 313 448 286 448 286 468 286 468 313"></polyline>
+                <polyline id="Rectangle-4" stroke="#343642" stroke-width="4" points="429 235 429 224 429 224 439 224 439 235"></polyline>
+                <path d="M393,313 L586,313" id="Rectangle-5" stroke="#343642" stroke-width="4" stroke-linecap="square"></path>
+                <polyline id="Rectangle-8" stroke="#343642" stroke-width="4" points="493 257 561 257 561 313"></polyline>
+                <path d="M493,267 L561,267" id="Rectangle-9" stroke="#343642" stroke-width="4"></path>
+                <rect id="Rectangle-10" stroke="#343642" stroke-width="4" x="503" y="278" width="22" height="10"></rect>
+                <polyline id="Rectangle-11" stroke="#343642" stroke-width="4" points="535 313 535 290 535 290 551 290 551 313"></polyline>
+                <rect id="Rectangle-12" fill="#D7DCE0" x="541" y="204" width="9" height="4"></rect>
+                <rect id="Rectangle-12-Copy-3" fill="#D7DCE0" x="397" y="149" width="24" height="4"></rect>
+                <rect id="Rectangle-12-Copy-4" fill="#D7DCE0" x="427" y="149" width="9" height="4"></rect>
+                <rect id="Rectangle-12-Copy-5" fill="#D7DCE0" x="406" y="162" width="55" height="4"></rect>
+                <rect id="Rectangle-12-Copy" fill="#D7DCE0" x="556" y="204" width="32" height="4"></rect>
+                <rect id="Rectangle-12-Copy-2" fill="#D7DCE0" x="530" y="218" width="45" height="4"></rect>
+            </g>
+            <g id="default" transform="translate(293.000000, 269.000000)" fill-rule="nonzero">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <polygon id="Shape" fill="#000000" points="15.502 32.018 11.814 33.566 5.614 18.818 9.296 17.268 15.502 32.018"></polygon>
+                <polygon id="Shape" fill="#000000" points="2 4.814 2 27.19 7.938 21.458 8.794 21.18 18.33 21.18"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

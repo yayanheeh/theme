@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="840px" height="480px" viewBox="0 0 840 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>quick-add-to-cart-featured</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6,0 L184,0 C187.313708,-6.08718376e-16 190,2.6862915 190,6 L190,322 L0,322 L0,6 C-4.05812251e-16,2.6862915 2.6862915,6.08718376e-16 6,0 Z" id="path-1"></path>
+        <filter x="-14.7%" y="-9.9%" width="133.7%" height="119.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="4" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.198086504 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="13.9684862 23.238 18.168 33.378 18.17 33.38 10.958 36.448 6.44921752 25.7669727 0 32.03 0 0 23.182 23.238"></polygon>
+        <filter x="-133.7%" y="-79.6%" width="367.4%" height="270.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.201681386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="quick-add-to-cart-featured" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="bg" fill="#F0CA4D" points="0 480 840 480 840 0 0 0"></polygon>
+        <g id="desktop" transform="translate(94.000000, 26.000000)">
+            <path d="M726,454 L0,454 L0,6 C0,2.687 2.687,0 6,0 L720,0 C723.313,0 726,2.687 726,6 L726,454 Z" id="container_bg" fill="#17242B"></path>
+            <polygon id="Combined-Shape" fill="#ECECEC" points="0 24 726 24 726 454 0 454"></polygon>
+            <g id="Group" transform="translate(265.000000, 69.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="196" height="206" rx="4"></rect>
+                <g id="triangle-down-20" transform="translate(96.000000, 173.000000)" fill="#324D5E" fill-rule="nonzero">
+                    <path d="M4.0005,6 C4.16349866,6 4.31649741,5.9205 4.40999664,5.7865 L7.90996796,0.7865 C8.01696709,0.634 8.02896699,0.4345 7.94396769,0.269 C7.85746839,0.1035 7.68696979,0 7.50047132,0 L0.499528681,0 C0.313030209,0 0.142531606,0.1035 0.0560323147,0.269 C-0.0289669889,0.4345 -0.0169670872,0.634 0.0900320361,0.7865 L3.59000336,5.7865 C3.68350259,5.9205 3.83650134,6 3.9995,6 C4,6 4,6 4.0005,6 C4,6 4,6 4.0005,6 Z" id="Shape"></path>
+                </g>
+                <rect id="Rectangle-2" stroke="#DCDCDC" stroke-width="2" x="15" y="162" width="28" height="28"></rect>
+                <circle id="Oval" fill="#324D5E" cx="29" cy="176" r="4"></circle>
+                <rect id="Rectangle-4" fill="#324D5E" x="61" y="172" width="24" height="8" rx="1"></rect>
+                <rect id="Rectangle-2-Copy-2" fill="#40B39D" x="119" y="161" width="64" height="30" rx="2"></rect>
+                <rect id="Rectangle-3" fill="#FFFFFF" x="138" y="172" width="26" height="8" rx="1"></rect>
+                <rect id="Rectangle-2-Copy" stroke="#DCDCDC" stroke-width="2" x="51" y="162" width="60" height="28"></rect>
+                <g id="tshirt-54" transform="translate(36.000000, 19.000000)" fill="#324D5E" fill-rule="nonzero">
+                    <path d="M106,0 L82,0 C80.8,0 80,0.8 80,2 C80,15.6 64.6,25.8 50.2,16.2 C45.6,13.2 43.6,7.6 44,2.2 C44,1 43.2,0.2 42,0.2 L18,0.2 C8,0.2 0,8.2 0,18.2 L0,66.2 C0,67.4 0.8,68.2 2,68.2 L22,68.2 L22,50.2 C22,49 22.8,48.2 24,48.2 C25.2,48.2 26,49 26,50.2 L26,122.2 C26,123.4 26.8,124.2 28,124.2 L96,124.2 C97.2,124.2 98,123.4 98,122.2 L98,50 C98,48.8 98.8,48 100,48 C101.2,48 102,48.8 102,50 L102,68 L122,68 C123.2,68 124,67.2 124,66 L124,18 C124,8 116,0 106,0 Z" id="Shape"></path>
+                </g>
+                <rect id="Rectangle-5" fill="#D7D7D7" x="11" y="222" width="58" height="14" rx="2"></rect>
+                <rect id="Rectangle-5-Copy" fill="#D7D7D7" x="166" y="222" width="20" height="14" rx="2"></rect>
+            </g>
+            <g id="Group-Copy" transform="translate(491.000000, 69.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="196" height="206" rx="4"></rect>
+                <g id="tshirt-54" transform="translate(36.000000, 41.000000)" fill="#DE5B48" fill-rule="nonzero">
+                    <path d="M106,0 L82,0 C80.8,0 80,0.8 80,2 C80,15.6 64.6,25.8 50.2,16.2 C45.6,13.2 43.6,7.6 44,2.2 C44,1 43.2,0.2 42,0.2 L18,0.2 C8,0.2 0,8.2 0,18.2 L0,66.2 C0,67.4 0.8,68.2 2,68.2 L22,68.2 L22,50.2 C22,49 22.8,48.2 24,48.2 C25.2,48.2 26,49 26,50.2 L26,122.2 C26,123.4 26.8,124.2 28,124.2 L96,124.2 C97.2,124.2 98,123.4 98,122.2 L98,50 C98,48.8 98.8,48 100,48 C101.2,48 102,48.8 102,50 L102,68 L122,68 C123.2,68 124,67.2 124,66 L124,18 C124,8 116,0 106,0 Z" id="Shape"></path>
+                </g>
+                <rect id="Rectangle-5" fill="#D7D7D7" x="11" y="222" width="58" height="14" rx="2"></rect>
+                <rect id="Rectangle-5-Copy" fill="#D7D7D7" x="166" y="222" width="20" height="14" rx="2"></rect>
+            </g>
+            <g id="Group-Copy-2" transform="translate(39.000000, 69.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="196" height="206" rx="4"></rect>
+                <g id="tshirt-54" transform="translate(36.000000, 41.000000)" fill="#DE5B48" fill-rule="nonzero">
+                    <path d="M106,0 L82,0 C80.8,0 80,0.8 80,2 C80,15.6 64.6,25.8 50.2,16.2 C45.6,13.2 43.6,7.6 44,2.2 C44,1 43.2,0.2 42,0.2 L18,0.2 C8,0.2 0,8.2 0,18.2 L0,66.2 C0,67.4 0.8,68.2 2,68.2 L22,68.2 L22,50.2 C22,49 22.8,48.2 24,48.2 C25.2,48.2 26,49 26,50.2 L26,122.2 C26,123.4 26.8,124.2 28,124.2 L96,124.2 C97.2,124.2 98,123.4 98,122.2 L98,50 C98,48.8 98.8,48 100,48 C101.2,48 102,48.8 102,50 L102,68 L122,68 C123.2,68 124,67.2 124,66 L124,18 C124,8 116,0 106,0 Z" id="Shape"></path>
+                </g>
+                <rect id="Rectangle-5" fill="#D7D7D7" x="11" y="222" width="58" height="14" rx="2"></rect>
+                <rect id="Rectangle-5-Copy" fill="#D7D7D7" x="166" y="222" width="20" height="14" rx="2"></rect>
+            </g>
+            <g id="Group-Copy-3" transform="translate(39.000000, 337.000000)">
+                <path d="M196,117 L0,117 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L192,0 C194.209139,1.52910644e-14 196,1.790861 196,4 L196,117 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <g id="tshirt-54" transform="translate(36.000000, 41.000000)" fill="#324D5E" fill-rule="nonzero">
+                    <path d="M98,76 L26,76 L26,50.2 C26,49 25.2,48.2 24,48.2 C22.8,48.2 22,49 22,50.2 L22,68.2 L2,68.2 C0.8,68.2 0,67.4 0,66.2 L0,18.2 C0,8.2 8,0.2 18,0.2 L42,0.2 C43.2,0.2 44,1 44,2.2 C43.6,7.6 45.6,13.2 50.2,16.2 C64.6,25.8 80,15.6 80,2 C80,0.8 80.8,0 82,0 L106,0 C116,0 124,8 124,18 L124,66 C124,67.2 123.2,68 122,68 L102,68 L102,50 C102,48.8 101.2,48 100,48 C98.8,48 98,48.8 98,50 L98,76 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+            <g id="Group-Copy-4" transform="translate(265.000000, 337.000000)">
+                <path d="M196,117 L0,117 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L192,0 C194.209139,1.52910644e-14 196,1.790861 196,4 L196,117 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <g id="tshirt-54" transform="translate(36.000000, 41.000000)" fill="#DE5B48" fill-rule="nonzero">
+                    <path d="M98,76 L26,76 L26,50.2 C26,49 25.2,48.2 24,48.2 C22.8,48.2 22,49 22,50.2 L22,68.2 L2,68.2 C0.8,68.2 0,67.4 0,66.2 L0,18.2 C0,8.2 8,0.2 18,0.2 L42,0.2 C43.2,0.2 44,1 44,2.2 C43.6,7.6 45.6,13.2 50.2,16.2 C64.6,25.8 80,15.6 80,2 C80,0.8 80.8,0 82,0 L106,0 C116,0 124,8 124,18 L124,66 C124,67.2 123.2,68 122,68 L102,68 L102,50 C102,48.8 101.2,48 100,48 C98.8,48 98,48.8 98,50 L98,76 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+            <g id="Group-Copy-5" transform="translate(491.000000, 337.000000)">
+                <path d="M196,117 L0,117 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L192,0 C194.209139,1.52910644e-14 196,1.790861 196,4 L196,117 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <g id="tshirt-54" transform="translate(36.000000, 41.000000)" fill="#324D5E" fill-rule="nonzero">
+                    <path d="M98,76 L26,76 L26,50.2 C26,49 25.2,48.2 24,48.2 C22.8,48.2 22,49 22,50.2 L22,68.2 L2,68.2 C0.8,68.2 0,67.4 0,66.2 L0,18.2 C0,8.2 8,0.2 18,0.2 L42,0.2 C43.2,0.2 44,1 44,2.2 C43.6,7.6 45.6,13.2 50.2,16.2 C64.6,25.8 80,15.6 80,2 C80,0.8 80.8,0 82,0 L106,0 C116,0 124,8 124,18 L124,66 C124,67.2 123.2,68 122,68 L102,68 L102,50 C102,48.8 101.2,48 100,48 C98.8,48 98,48.8 98,50 L98,76 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+            <g id="dots" transform="translate(15.000000, 8.000000)" fill="#F0CA4D">
+                <path d="M8,4 C8,6.209 6.209,8 4,8 C1.791,8 0,6.209 0,4 C0,1.791 1.791,0 4,0 C6.209,0 8,1.791 8,4" id="Fill-6"></path>
+                <path d="M24,4 C24,6.209 22.209,8 20,8 C17.791,8 16,6.209 16,4 C16,1.791 17.791,0 20,0 C22.209,0 24,1.791 24,4" id="Fill-8"></path>
+                <path d="M40,4 C40,6.209 38.209,8 36,8 C33.791,8 32,6.209 32,4 C32,1.791 33.791,0 36,0 C38.209,0 40,1.791 40,4" id="Fill-10"></path>
+            </g>
+        </g>
+        <g id="mobile" transform="translate(20.000000, 158.000000)">
+            <g id="mobile_bg">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#ECECEC" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <path d="M0,7 L0,6 C0,2.687 2.0769043,0 6,0 L184,0 C188.06543,0 190,2.687 190,6 L190,7 C190,3.687 187.313,1 184,1 L6,1 C2.687,1 0,3.687 0,7 Z" id="inner-shadow" fill="#FFFFFF"></path>
+            <g id="Group-Copy-2" transform="translate(19.000000, 21.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="154" height="182" rx="4"></rect>
+                <g id="tshirt-54" transform="translate(29.000000, 43.000000)" fill="#DE5B48" fill-rule="nonzero">
+                    <path d="M82.0645161,0.0225806452 L63.483871,0.0225806452 C62.5548387,0.0225806452 61.9354839,0.641935484 61.9354839,1.57096774 C61.9354839,12.1 50.0129032,19.9967742 38.8645161,12.5645161 C35.3032258,10.2419355 33.7548387,5.90645161 34.0645161,1.72580645 C34.0645161,0.796774194 33.4451613,0.177419355 32.516129,0.177419355 L13.9354839,0.177419355 C6.19354839,0.177419355 0,6.37096774 0,14.1129032 L0,51.2741935 C0,52.2032258 0.619354839,52.8225806 1.5483871,52.8225806 L17.0322581,52.8225806 L17.0322581,38.8870968 C17.0322581,37.9580645 17.6516129,37.3387097 18.5806452,37.3387097 C19.5096774,37.3387097 20.1290323,37.9580645 20.1290323,38.8870968 L20.1290323,94.6290323 C20.1290323,95.5580645 20.7483871,96.1774194 21.6774194,96.1774194 L74.3225806,96.1774194 C75.2516129,96.1774194 75.8709677,95.5580645 75.8709677,94.6290323 L75.8709677,38.7322581 C75.8709677,37.8032258 76.4903226,37.183871 77.4193548,37.183871 C78.3483871,37.183871 78.9677419,37.8032258 78.9677419,38.7322581 L78.9677419,52.6677419 L94.4516129,52.6677419 C95.3806452,52.6677419 96,52.0483871 96,51.1193548 L96,13.9580645 C96,6.21612903 89.8064516,0.0225806452 82.0645161,0.0225806452 Z" id="Shape"></path>
+                </g>
+                <rect id="Rectangle-5" fill="#D7D7D7" x="9" y="197" width="57" height="14" rx="2"></rect>
+                <rect id="Rectangle-5-Copy" fill="#D7D7D7" x="124" y="197" width="20" height="14" rx="2"></rect>
+            </g>
+            <g id="Group-Copy-6" transform="translate(19.000000, 257.000000)">
+                <path d="M154,65 L0,65 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L150,0 C152.209139,1.52910644e-14 154,1.790861 154,4 L154,65 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <g id="tshirt-54" transform="translate(29.000000, 43.000000)" fill="#DE5B48" fill-rule="nonzero">
+                    <path d="M96,22 L0,22 L0,14.1129032 C0,6.37096774 6.19354839,0.177419355 13.9354839,0.177419355 L32.516129,0.177419355 C33.4451613,0.177419355 34.0645161,0.796774194 34.0645161,1.72580645 C33.7548387,5.90645161 35.3032258,10.2419355 38.8645161,12.5645161 C50.0129032,19.9967742 61.9354839,12.1 61.9354839,1.57096774 C61.9354839,0.641935484 62.5548387,0.0225806452 63.483871,0.0225806452 L82.0645161,0.0225806452 C89.8064516,0.0225806452 96,6.21612903 96,13.9580645 L96,22 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+            <g id="settings-gear-65" transform="translate(142.000000, 172.000000)" fill="#D7D7D7" fill-rule="nonzero">
+                <path d="M20,9 L18.7,9 C18.5,8.3 18.2,7.6 17.8,6.9 L18.7,6 C19.5,5.2 19.5,4 18.7,3.2 C17.9,2.4 16.7,2.4 15.9,3.2 L15,4.1 C14.4,3.7 13.7,3.4 12.9,3.2 L12.9,2 C12.9,0.9 12,0 10.9,0 C9.8,0 8.9,0.9 8.9,2 L8.9,3.3 C8.3,3.5 7.6,3.7 6.9,4.1 L6.1,3.2 C5.3,2.4 4.1,2.4 3.3,3.2 C2.5,4 2.5,5.2 3.3,6 L4.2,6.9 C3.7,7.6 3.5,8.3 3.3,9 L2,9 C0.9,9 0,9.9 0,11 C0,12.1 0.9,13 2,13 L3.3,13 C3.5,13.7 3.8,14.4 4.2,15.1 L3.3,16 C2.5,16.8 2.5,18 3.3,18.8 C4.1,19.6 5.3,19.6 6.1,18.8 L7,17.9 C7.6,18.3 8.3,18.6 9.1,18.8 L9.1,20 C9.1,21.1 10,22 11.1,22 C12.2,22 13.1,21.1 13.1,20 L13.1,18.7 C13.8,18.5 14.5,18.2 15.2,17.8 L16.1,18.7 C16.9,19.5 18.1,19.5 18.9,18.7 C19.7,17.9 19.7,16.7 18.9,15.9 L18,15 C18.4,14.4 18.7,13.7 18.9,12.9 L20,12.9 C21.1,12.9 22,12 22,10.9 C22,9.9 21.1,9 20,9 Z M11,14 C9.3,14 8,12.7 8,11 C8,9.3 9.3,8 11,8 C12.7,8 14,9.3 14,11 C14,12.7 12.7,14 11,14 Z" id="Shape"></path>
+            </g>
+        </g>
+        <g id="default" transform="translate(531.000000, 272.000000)" fill-rule="nonzero">
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <polygon id="Shape" fill="#000000" points="15.502 32.018 11.814 33.566 5.614 18.818 9.296 17.268 15.502 32.018"></polygon>
+            <polygon id="Shape" fill="#000000" points="2 4.814 2 27.19 7.938 21.458 8.794 21.18 18.33 21.18"></polygon>
+        </g>
+    </g>
+</svg>

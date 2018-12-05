@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="840px" height="480px" viewBox="0 0 840 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>immerive-video-template-featured</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="89" y="283" width="176" height="48"></rect>
+        <filter x="-17.6%" y="-60.4%" width="135.2%" height="229.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.164705882   0 0 0 0 0.364705882   0 0 0 0 0.847058824  0 0 0 0.397560009 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M190,322 L0,322 L0,6 C0,2.687 2.687,0 6,0 L184,0 C187.313,0 190,2.687 190,6 L190,322 Z" id="path-3"></path>
+        <filter x="-14.7%" y="-9.9%" width="133.7%" height="119.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="4" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.110134182   0 0 0 0 0.24344851   0 0 0 0 0.564971301  0 0 0 0.201115263 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="25" y="154" width="140" height="44"></rect>
+        <filter x="-22.1%" y="-65.9%" width="144.3%" height="240.9%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.164705882   0 0 0 0 0.364705882   0 0 0 0 0.847058824  0 0 0 0.397560009 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-7" points="13.9684862 23.238 18.168 33.378 18.17 33.38 10.958 36.448 6.44921752 25.7669727 0 32.03 0 0 23.182 23.238"></polygon>
+        <filter x="-133.7%" y="-79.6%" width="367.4%" height="270.1%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.201681386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="immerive-video-template-featured" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="bg" fill="#0A2239" points="0 480 840 480 840 0 0 0"></polygon>
+        <g id="desktop" transform="translate(94.000000, 26.000000)">
+            <path d="M726,454 L0,454 L0,6 C0,2.687 2.687,0 6,0 L720,0 C723.313,0 726,2.687 726,6 L726,454 Z" id="container_bg" fill="#FFFFFF"></path>
+            <path d="M6,0 L720,0 C723.313708,-6.08718376e-16 726,2.6862915 726,6 L726,24 L0,24 L0,6 C-4.05812251e-16,2.6862915 2.6862915,6.08718376e-16 6,0 Z" id="Rectangle" fill="#ECECEC"></path>
+            <g id="dots" transform="translate(15.000000, 8.000000)" fill="#D0D0D0">
+                <path d="M8,4 C8,6.209 6.209,8 4,8 C1.791,8 0,6.209 0,4 C0,1.791 1.791,0 4,0 C6.209,0 8,1.791 8,4" id="Fill-6"></path>
+                <path d="M24,4 C24,6.209 22.209,8 20,8 C17.791,8 16,6.209 16,4 C16,1.791 17.791,0 20,0 C22.209,0 24,1.791 24,4" id="Fill-8"></path>
+                <path d="M40,4 C40,6.209 38.209,8 36,8 C33.791,8 32,6.209 32,4 C32,1.791 33.791,0 36,0 C38.209,0 40,1.791 40,4" id="Fill-10"></path>
+            </g>
+            <rect id="Rectangle-2" stroke="#DDDDDD" stroke-width="2" fill-opacity="0.819999993" fill="#FFFFFF" x="477" y="81" width="178" height="316" rx="22"></rect>
+            <rect id="Rectangle-3" stroke="#000000" stroke-width="2" fill="#FFA552" x="488" y="118" width="156" height="242"></rect>
+            <g id="video-66" transform="translate(532.000000, 207.000000)" fill="#F19641" fill-rule="nonzero">
+                <path d="M44,26.6666667 L2.93333333,26.6666667 C1.31266667,26.6666667 0,27.9517949 0,29.5384615 L0,61.1282051 C0,62.7148718 1.31266667,64 2.93333333,64 L44,64 C45.6206667,64 46.9333333,62.7148718 46.9333333,61.1282051 L46.9333333,29.5384615 C46.9333333,27.9517949 45.6206667,26.6666667 44,26.6666667 Z" id="Shape"></path>
+                <circle id="Oval" cx="10.1333333" cy="10.1333333" r="10.1333333"></circle>
+                <circle id="Oval" cx="34.1333333" cy="12.8" r="7.46666667"></circle>
+                <path d="M66.5614222,29.0403002 C66.1617778,28.7712118 65.6554667,28.7246668 65.2188444,28.9181195 L50.1333333,35.5304206 L50.1333333,54.0713363 L65.2174222,60.6836375 C65.3966222,60.7621822 65.5872,60.8 65.7777778,60.8 C66.0508444,60.8 66.3253333,60.7185462 66.5614222,60.5600023 C66.9596444,60.2894594 67.2,59.8341909 67.2,59.3454683 L67.2,30.2548341 C67.2,29.7661115 66.9596444,29.3108431 66.5614222,29.0403002 Z" id="Shape"></path>
+            </g>
+            <rect id="Rectangle-4" fill="#000000" x="89" y="147" width="222" height="24" rx="3"></rect>
+            <rect id="Rectangle-4-Copy" fill="#DDDDDD" x="89" y="192" width="310" height="14"></rect>
+            <rect id="Rectangle-4-Copy-2" fill="#DDDDDD" x="89" y="220" width="310" height="14"></rect>
+            <rect id="Rectangle-4-Copy-3" fill="#DDDDDD" x="89" y="248" width="214" height="14"></rect>
+            <g id="Rectangle-4-Copy-4">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#2A5DD8" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <rect id="Rectangle-7" fill="#FFFFFF" x="129" y="300" width="96" height="14" rx="2"></rect>
+        </g>
+        <g id="mobile" transform="translate(20.000000, 158.000000)">
+            <g id="container_bg">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <rect id="Rectangle-5" fill="#000000" x="28" y="29" width="134" height="20" rx="3"></rect>
+            <rect id="Rectangle-5-Copy" fill="#DDDDDD" x="16" y="69" width="158" height="12"></rect>
+            <rect id="Rectangle-5-Copy-2" fill="#D8D8D8" x="16" y="94" width="158" height="12"></rect>
+            <rect id="Rectangle-5-Copy-3" fill="#D8D8D8" x="37" y="119" width="116" height="12"></rect>
+            <g id="Rectangle-5-Copy-4">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="#2A5DD8" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+            <rect id="Rectangle-6" fill="#FFFFFF" x="61" y="170" width="68" height="12" rx="2"></rect>
+            <rect id="Rectangle-8" stroke="#DDDDDD" stroke-width="2" fill-opacity="0.819999993" fill="#FFFFFF" x="13" y="229" width="164" height="126" rx="22"></rect>
+            <rect id="Rectangle-9" stroke="#000000" stroke-width="2" fill="#FFA552" x="23" y="264" width="144" height="74"></rect>
+        </g>
+        <g id="default" transform="translate(335.000000, 337.000000)" fill-rule="nonzero">
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+            </g>
+            <polygon id="Shape" fill="#000000" points="15.502 32.018 11.814 33.566 5.614 18.818 9.296 17.268 15.502 32.018"></polygon>
+            <polygon id="Shape" fill="#000000" points="2 4.814 2 27.19 7.938 21.458 8.794 21.18 18.33 21.18"></polygon>
+        </g>
+    </g>
+</svg>

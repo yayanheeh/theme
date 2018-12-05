@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="840px" height="480px" viewBox="0 0 840 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>hero-slider-featured</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6,0 L184,0 C187.313708,-6.08718376e-16 190,2.6862915 190,6 L190,322 L0,322 L0,6 C-4.05812251e-16,2.6862915 2.6862915,6.08718376e-16 6,0 Z" id="path-1"></path>
+        <filter x="-14.7%" y="-9.9%" width="133.7%" height="119.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="4" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.198086504 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="13.9684862 23.238 18.168 33.378 18.17 33.38 10.958 36.448 6.44921752 25.7669727 0 32.03 0 0 23.182 23.238"></polygon>
+        <filter x="-133.7%" y="-79.6%" width="367.4%" height="270.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.201681386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="hero-slider-featured" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="bg" fill="#9FA3A6" points="0 480 840 480 840 0 0 0"></polygon>
+        <g id="desktop" transform="translate(94.000000, 26.000000)">
+            <path d="M726,454 L0,454 L0,6 C0,2.687 2.687,0 6,0 L720,0 C723.313,0 726,2.687 726,6 L726,454 Z" id="container_bg" fill="#FFFFFF"></path>
+            <polygon id="Combined-Shape" fill="#2C343B" points="0 24 726 24 726 454 0 454"></polygon>
+            <polygon id="Combined-Shape-Copy" fill="#F2F2F2" points="0 324 726 324 726 454 0 454"></polygon>
+            <rect id="Rectangle-4" fill="#D9D4D4" x="184" y="360" width="358" height="12" rx="2"></rect>
+            <rect id="Rectangle-4-Copy" fill="#D9D4D4" x="184" y="386" width="358" height="12" rx="2"></rect>
+            <rect id="Rectangle-4-Copy-2" fill="#D9D4D4" x="184" y="412" width="268" height="12" rx="2"></rect>
+            <polygon id="Combined-Shape-Copy-2" fill="#161A1D" points="0 264 726 264 726 324 0 324"></polygon>
+            <polygon id="Combined-Shape-Copy-3" fill="#FFFFFF" points="325 264 401 264 401 324 325 324"></polygon>
+            <polygon id="Combined-Shape-Copy-4" fill="#D64254" points="325 264 401 264 401 267 325 267"></polygon>
+            <circle id="Oval" fill="#D64254" cx="363" cy="287" r="9"></circle>
+            <circle id="Oval-Copy-3" fill="#FFFFFF" cx="439" cy="287" r="9"></circle>
+            <circle id="Oval-Copy" fill="#FFFFFF" cx="287" cy="287" r="9"></circle>
+            <rect id="Rectangle-3" fill="#414A52" x="346" y="302" width="34" height="8" rx="2"></rect>
+            <rect id="Rectangle-3-Copy-3" fill="#414A52" x="422" y="302" width="34" height="8" rx="2"></rect>
+            <polygon id="Combined-Shape-Copy-6" fill="#0B0D0E" points="477 264 553 264 553 324 477 324"></polygon>
+            <circle id="Oval-Copy-4" fill="#FFFFFF" cx="515" cy="287" r="9"></circle>
+            <rect id="Rectangle-3-Copy-4" fill="#414A52" x="498" y="302" width="34" height="8" rx="2"></rect>
+            <rect id="Rectangle-3-Copy" fill="#414A52" x="270" y="302" width="34" height="8" rx="2"></rect>
+            <circle id="Oval-Copy-2" fill="#FFFFFF" cx="211" cy="287" r="9"></circle>
+            <rect id="Rectangle-3-Copy-2" fill="#414A52" x="194" y="302" width="34" height="8" rx="2"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="294" y="79" width="138" height="16" rx="2"></rect>
+            <rect id="Rectangle-Copy" fill="#414A52" x="249" y="115" width="228" height="12" rx="2"></rect>
+            <rect id="Rectangle-Copy-2" fill="#414A52" x="264" y="139" width="198" height="12" rx="2"></rect>
+            <rect id="Rectangle-Copy-3" fill="#D64254" x="313" y="171" width="100" height="38" rx="4"></rect>
+            <rect id="Rectangle-2" fill="#FFFFFF" x="342" y="185" width="42" height="10" rx="2"></rect>
+            <g id="dots" transform="translate(15.000000, 8.000000)" fill="#9FA3A6">
+                <path d="M8,4 C8,6.209 6.209,8 4,8 C1.791,8 0,6.209 0,4 C0,1.791 1.791,0 4,0 C6.209,0 8,1.791 8,4" id="Fill-6"></path>
+                <path d="M24,4 C24,6.209 22.209,8 20,8 C17.791,8 16,6.209 16,4 C16,1.791 17.791,0 20,0 C22.209,0 24,1.791 24,4" id="Fill-8"></path>
+                <path d="M40,4 C40,6.209 38.209,8 36,8 C33.791,8 32,6.209 32,4 C32,1.791 33.791,0 36,0 C38.209,0 40,1.791 40,4" id="Fill-10"></path>
+            </g>
+        </g>
+        <g id="mobile" transform="translate(20.000000, 158.000000)">
+            <g id="mobile_bg">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#2C343B" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <polygon id="Combined-Shape" fill="#EBEBEC" points="190 218 190 322 0 322 0 218"></polygon>
+            <polygon id="Combined-Shape-Copy-5" fill="#161A1D" points="190 178 190 218 0 218 0 178"></polygon>
+            <polygon id="Combined-Shape-Copy-7" fill="#FFFFFF" points="116 178 116 218 74 218 74 178"></polygon>
+            <polygon id="Combined-Shape-Copy-8" fill="#D64254" points="116 178 116 181 74 181 74 178"></polygon>
+            <circle id="Oval-2" fill="#D64254" cx="95" cy="198" r="7"></circle>
+            <circle id="Oval-2-Copy" fill="#414A52" cx="53" cy="198" r="7"></circle>
+            <circle id="Oval-2-Copy-3" fill="#414A52" cx="137" cy="198" r="7"></circle>
+            <circle id="Oval-2-Copy-4" fill="#414A52" cx="169" cy="198" r="7"></circle>
+            <circle id="Oval-2-Copy-2" fill="#414A52" cx="21" cy="198" r="7"></circle>
+            <rect id="Rectangle-5" fill="#FFFFFF" x="53" y="37" width="84" height="14" rx="2"></rect>
+            <rect id="Rectangle-5-Copy" fill="#414A52" x="20" y="68" width="150" height="10" rx="2"></rect>
+            <rect id="Rectangle-5-Copy-2" fill="#414A52" x="36" y="86" width="118" height="10" rx="2"></rect>
+            <rect id="Rectangle-5-Copy-3" fill="#D64254" x="57" y="111" width="76" height="30" rx="3"></rect>
+            <rect id="Rectangle-6" fill="#FFFFFF" x="77" y="122" width="36" height="8" rx="1"></rect>
+            <rect id="Rectangle-7" fill="#D9D4D4" x="20" y="243" width="150" height="9" rx="2"></rect>
+            <rect id="Rectangle-7-Copy" fill="#D9D4D4" x="20" y="266" width="150" height="9" rx="2"></rect>
+            <rect id="Rectangle-7-Copy-2" fill="#D9D4D4" x="20" y="289" width="111" height="9" rx="2"></rect>
+            <path d="M0,7 L0,6 C0,2.687 2.0769043,0 6,0 L184,0 C188.06543,0 190,2.687 190,6 L190,7 C190,3.687 187.313,1 184,1 L6,1 C2.687,1 0,3.687 0,7 Z" id="inner-shadow" fill="#FFFFFF" opacity="0.246433424"></path>
+        </g>
+        <g id="default" transform="translate(638.000000, 336.000000)" fill-rule="nonzero">
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <polygon id="Shape" fill="#000000" points="15.502 32.018 11.814 33.566 5.614 18.818 9.296 17.268 15.502 32.018"></polygon>
+            <polygon id="Shape" fill="#000000" points="2 4.814 2 27.19 7.938 21.458 8.794 21.18 18.33 21.18"></polygon>
+        </g>
+    </g>
+</svg>

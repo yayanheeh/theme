@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="840px" height="480px" viewBox="0 0 840 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>svg-clipped-slider-featured</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M190,322 L0,322 L0,6 C0,2.687 2.687,0 6,0 L184,0 C187.313,0 190,2.687 190,6 L190,322 Z" id="path-1"></path>
+        <filter x="-14.7%" y="-9.9%" width="133.7%" height="119.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="4" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.109176857 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="13.9684862 23.238 18.168 33.378 18.17 33.38 10.958 36.448 6.44921752 25.7669727 0 32.03 0 0 23.182 23.238"></polygon>
+        <filter x="-133.7%" y="-79.6%" width="367.4%" height="270.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.201681386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="svg-clipped-slider-featured" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="bg" fill="#243238" points="0 480 840 480 840 0 0 0"></polygon>
+        <g id="desktop" transform="translate(94.000000, 26.000000)">
+            <path d="M726,454 L0,454 L0,6 C0,2.687 2.687,0 6,0 L720,0 C723.313,0 726,2.687 726,6 L726,454 Z" id="container_bg" fill="#11191D"></path>
+            <polygon id="Combined-Shape" fill="#FFFFFF" points="1.13686838e-13 25 726 25 726 454 0 454"></polygon>
+            <rect id="Rectangle" fill="#8FA4AE" x="231" y="102" width="264" height="264" rx="6"></rect>
+            <g id="image-2" transform="translate(314.000000, 188.000000)" fill="#8097A2" fill-rule="nonzero">
+                <path d="M13.6808351,84.5939048 L84.7852563,84.5939048 L65.1577237,42.3146675 L41.5068239,73.6659811 L25.2667547,61.5566968 L13.6808351,84.5939048 Z M39.8157797,61.8974478 L66.8962062,26 L98,93 L0,93 L22.2349646,48.7884466 L39.8157797,61.8974478 Z" id="Shape"></path>
+                <path d="M33,34 C23.6111593,34 16,26.3888407 16,17 C16,7.61115925 23.6111593,0 33,0 C42.3888407,0 50,7.61115925 50,17 C50,26.3888407 42.3888407,34 33,34 Z M33,25.5 C37.6944204,25.5 41.5,21.6944204 41.5,17 C41.5,12.3055796 37.6944204,8.5 33,8.5 C28.3055796,8.5 24.5,12.3055796 24.5,17 C24.5,21.6944204 28.3055796,25.5 33,25.5 Z" id="Oval"></path>
+            </g>
+            <rect id="Rectangle-Copy-3" fill="#8FA4AE" opacity="0.7" transform="translate(128.523341, 233.523341) rotate(-315.000000) translate(-128.523341, -233.523341) " x="76.5344879" y="181.534488" width="103.977705" height="103.977705" rx="6"></rect>
+            <rect id="Rectangle-Copy" fill="#BACCD5" opacity="0.439877717" transform="translate(529.201434, 232.191740) rotate(30.000000) translate(-529.201434, -232.191740) " x="454.93383" y="157.924136" width="148.535208" height="148.535208" rx="4"></rect>
+            <rect id="Rectangle-Copy-2" fill="#8FA4AE" opacity="0.703125" transform="translate(597.523341, 233.523341) rotate(-315.000000) translate(-597.523341, -233.523341) " x="545.534488" y="181.534488" width="103.977705" height="103.977705" rx="6"></rect>
+            <g id="minimal-right" transform="translate(592.000000, 214.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Shape" points="15.4056296 18 0.330471996 2.92484245 2.46242122 0.792893219 19.669528 18 2.46242122 35.2071068 0.330471996 33.0751576"></polygon>
+            </g>
+            <rect id="Rectangle-2" fill="#243238" x="295" y="391" width="136" height="16" rx="2"></rect>
+            <g id="dots" transform="translate(15.000000, 8.000000)" fill="#2E3F46">
+                <path d="M8,4 C8,6.209 6.209,8 4,8 C1.791,8 0,6.209 0,4 C0,1.791 1.791,0 4,0 C6.209,0 8,1.791 8,4" id="Fill-6"></path>
+                <path d="M24,4 C24,6.209 22.209,8 20,8 C17.791,8 16,6.209 16,4 C16,1.791 17.791,0 20,0 C22.209,0 24,1.791 24,4" id="Fill-8"></path>
+                <path d="M40,4 C40,6.209 38.209,8 36,8 C33.791,8 32,6.209 32,4 C32,1.791 33.791,0 36,0 C38.209,0 40,1.791 40,4" id="Fill-10"></path>
+            </g>
+        </g>
+        <g id="mobile" transform="translate(20.000000, 158.000000)">
+            <g id="container_bg">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#11191D" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <polygon id="Combined-Shape" fill="#FFFFFF" points="0 22 190 22 190 322 0 322"></polygon>
+            <rect id="Rectangle-3" fill="#8FA4AE" x="52" y="58" width="86" height="86" rx="4"></rect>
+            <g id="image-2" transform="translate(68.000000, 75.000000)" fill="#8097A2" fill-rule="nonzero">
+                <path d="M7.67801968,47.2323639 L47.5835622,47.2323639 L36.5681103,23.253095 L23.2946461,41.034437 L14.1803215,34.1664848 L7.67801968,47.2323639 Z M22.3455906,34.3597465 L37.5437892,14 L55,52 L0,52 L12.4788067,26.9247906 L22.3455906,34.3597465 Z" id="Shape"></path>
+                <path d="M18.5,19 C13.2532949,19 9,14.7467051 9,9.5 C9,4.25329488 13.2532949,0 18.5,0 C23.7467051,0 28,4.25329488 28,9.5 C28,14.7467051 23.7467051,19 18.5,19 Z M18.5,14.25 C21.1233526,14.25 23.25,12.1233526 23.25,9.5 C23.25,6.87664744 21.1233526,4.75 18.5,4.75 C15.8766474,4.75 13.75,6.87664744 13.75,9.5 C13.75,12.1233526 15.8766474,14.25 18.5,14.25 Z" id="Oval"></path>
+            </g>
+            <rect id="Rectangle-4" fill="#243238" x="59" y="160" width="72" height="12" rx="2"></rect>
+            <circle id="Oval-2" fill="#CFD9DC" cx="164" cy="101" r="20"></circle>
+            <g id="minimal-right" transform="translate(159.000000, 90.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Shape" points="10.1337443 11 0 1.36289277 1.43312786 0 13 11 1.43312786 22 0 20.6371072"></polygon>
+            </g>
+            <circle id="Oval-2-Copy" fill="#CFD9DC" cx="26" cy="101" r="20"></circle>
+            <g id="minimal-right-copy" transform="translate(25.500000, 101.000000) rotate(-180.000000) translate(-25.500000, -101.000000) translate(19.000000, 90.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Shape" points="10.1337443 11 0 1.36289277 1.43312786 0 13 11 1.43312786 22 0 20.6371072"></polygon>
+            </g>
+        </g>
+        <g id="default" transform="translate(723.000000, 279.000000)" fill-rule="nonzero">
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <polygon id="Shape" fill="#000000" points="15.502 32.018 11.814 33.566 5.614 18.818 9.296 17.268 15.502 32.018"></polygon>
+            <polygon id="Shape" fill="#000000" points="2 4.814 2 27.19 7.938 21.458 8.794 21.18 18.33 21.18"></polygon>
+        </g>
+    </g>
+</svg>

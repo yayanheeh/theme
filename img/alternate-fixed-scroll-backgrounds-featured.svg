@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="840px" height="480px" viewBox="0 0 840 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>alternate-fixed-scroll-backgrounds-featured</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6,0 L184,0 C187.313708,-6.08718376e-16 190,2.6862915 190,6 L190,322 L0,322 L0,6 C-4.05812251e-16,2.6862915 2.6862915,6.08718376e-16 6,0 Z" id="path-1"></path>
+        <filter x="-18.9%" y="-9.9%" width="133.7%" height="119.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-4" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.198086504 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alternate-fixed-scroll-backgrounds-featured">
+            <polygon id="bg" fill="#B3D8A6" points="0 480 840 480 840 0 0 0"></polygon>
+            <g id="desktop" transform="translate(20.000000, 26.000000)">
+                <path d="M726,454 L0,454 L0,6 C0,2.687 2.687,0 6,0 L720,0 C723.313,0 726,2.687 726,6 L726,454 Z" id="container_bg" fill="#282828"></path>
+                <polygon id="body" fill="#E5E8DB" points="0 24 726 24 726 454 1.13686838e-13 454"></polygon>
+                <polygon id="body-copy" fill="#EFEFEF" points="0 24 726 24 726 86 1.13686838e-13 86"></polygon>
+                <polygon id="body-copy-2" fill="#3D3536" points="0 86 726 86 726 288 1.13686838e-13 288"></polygon>
+                <g id="dots" transform="translate(15.000000, 8.000000)" fill="#514A4B">
+                    <path d="M8,4 C8,6.209 6.209,8 4,8 C1.791,8 0,6.209 0,4 C0,1.791 1.791,0 4,0 C6.209,0 8,1.791 8,4" id="Fill-6"></path>
+                    <path d="M24,4 C24,6.209 22.209,8 20,8 C17.791,8 16,6.209 16,4 C16,1.791 17.791,0 20,0 C22.209,0 24,1.791 24,4" id="Fill-8"></path>
+                    <path d="M40,4 C40,6.209 38.209,8 36,8 C33.791,8 32,6.209 32,4 C32,1.791 33.791,0 36,0 C38.209,0 40,1.791 40,4" id="Fill-10"></path>
+                </g>
+                <rect id="Rectangle" fill="#3D3536" x="17" y="44" width="70" height="22"></rect>
+                <rect id="Rectangle-Copy" fill="#99A478" x="87" y="44" width="22" height="22"></rect>
+                <rect id="Rectangle-Copy-2" fill="#B4D7A8" x="109" y="44" width="22" height="22"></rect>
+                <rect id="Rectangle-2" fill="#514A4B" x="291" y="180" width="144" height="14" rx="2"></rect>
+                <rect id="Rectangle-3" fill="#D5D8CB" x="180" y="322" width="368" height="12" rx="2"></rect>
+                <rect id="Rectangle-3-Copy-2" fill="#D5D8CB" x="180" y="378" width="368" height="12" rx="2"></rect>
+                <rect id="Rectangle-3-Copy" fill="#D5D8CB" x="180" y="350" width="368" height="12" rx="2"></rect>
+                <rect id="Rectangle-3-Copy-3" fill="#D5D8CB" x="180" y="406" width="297" height="12" rx="2"></rect>
+            </g>
+            <g id="mobile" transform="translate(630.000000, 158.000000)">
+                <g id="mobile_bg">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <polygon id="Combined-Shape" fill="#E5E8DB" points="190 42 190 322 0 322 0 42"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="#3D3536" points="190 42 190 182 0 182 0 42"></polygon>
+                <rect id="Rectangle-6" fill="#3D3536" x="12" y="14" width="48" height="14"></rect>
+                <rect id="Rectangle-6-Copy" fill="#99A478" x="60" y="14" width="14" height="14"></rect>
+                <rect id="Rectangle-6-Copy-2" fill="#B4D7A8" x="74" y="14" width="14" height="14"></rect>
+                <rect id="Rectangle-4" fill="#514A4B" x="50" y="105" width="90" height="14" rx="2"></rect>
+                <rect id="Rectangle-5" fill="#D5D8CB" x="24" y="209" width="142" height="10" rx="2"></rect>
+                <rect id="Rectangle-5-Copy" fill="#D5D8CB" x="24" y="237" width="142" height="10" rx="2"></rect>
+                <rect id="Rectangle-5-Copy-2" fill="#D5D8CB" x="24" y="265" width="142" height="10" rx="2"></rect>
+                <rect id="Rectangle-5-Copy-3" fill="#D5D8CB" x="24" y="293" width="115" height="10" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

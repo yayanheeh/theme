@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="840px" height="480px" viewBox="0 0 840 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>image-mask-effect-featured-new</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="14.8885575%" y1="75.1253418%" x2="66.8450136%" y2="19.2980857%" id="linearGradient-1">
+            <stop stop-color="#639FB5" offset="0%"></stop>
+            <stop stop-color="#7E6C9D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="5.94939202%" x2="0%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#2A5171" offset="0%"></stop>
+            <stop stop-color="#008AA5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#4B9FB1" offset="0%"></stop>
+            <stop stop-color="#006382" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-2.11262157%" y1="8.70413118%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#0081A1" offset="0%"></stop>
+            <stop stop-color="#009DB1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#0081A1" offset="0%"></stop>
+            <stop stop-color="#009DB1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#5D698D" offset="0%"></stop>
+            <stop stop-color="#C094BC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#007F98" offset="0%"></stop>
+            <stop stop-color="#C094BC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#BD7AA6" offset="0%"></stop>
+            <stop stop-color="#435484" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="12.0233406%" y1="100%" x2="50%" y2="-15.422779%" id="linearGradient-9">
+            <stop stop-color="#BD7AA6" offset="0%"></stop>
+            <stop stop-color="#435484" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#003859" offset="0%"></stop>
+            <stop stop-color="#43A5B0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M6,0 L184,0 C187.313708,-6.08718376e-16 190,2.6862915 190,6 L190,322 L0,322 L0,6 C-4.05812251e-16,2.6862915 2.6862915,6.08718376e-16 6,0 Z" id="path-11"></path>
+        <filter x="-14.7%" y="-9.9%" width="133.7%" height="119.9%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="4" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.198086504 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-13" points="13.9684862 23.238 18.168 33.378 18.17 33.38 10.958 36.448 6.44921752 25.7669727 0 32.03 0 0 23.182 23.238"></polygon>
+        <filter x="-133.7%" y="-79.6%" width="367.4%" height="270.1%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.201681386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="image-mask-effect-featured-new" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="bg" fill="#97DCD3" points="0 480 840 480 840 0 0 0"></polygon>
+        <g id="desktop" transform="translate(94.000000, 26.000000)">
+            <path d="M726,454 L0,454 L0,6 C0,2.687 2.687,0 6,0 L720,0 C723.313,0 726,2.687 726,6 L726,454 Z" id="container_bg" fill="#F5F9E5"></path>
+            <g id="Group" transform="translate(228.000000, 101.000000)" stroke="#032A3F" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <polygon id="Path-2" fill="url(#linearGradient-1)" points="38.6875 36.4765625 26.6621094 207.882812 227.070312 144.9375"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-1)" points="125.50235 86.459997 32.0117188 191.703125 97.0803877 185.765452 26.6621094 207.882812 38.6875 36.4765625"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-2)" points="270 114.266025 270 270 0 270 0 196.3848"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-2)" points="270 162.150739 270 270 204.530826 270 178.306964 142.153876 202.196715 134.887961"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-3)" points="65.967305 0 27.5754107 270 0 270 0 0"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-3)" points="56.7207909 65.0282789 27.5754107 270 0 270 0 164.455178"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-4)" points="250.170515 270 0 270 0 169.369933 250.170515 270"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-5)" points="1.41862674 270 71.4644222 198.116205 250.170515 270"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-6)" points="270 197.152653 0 26.9879408 0 0 270 0"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-7)" points="96.7382194 87.9562048 270 76.8531675 270 197.152653"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-8)" points="97.1917553 88.2420412 0 26.9879408 0 0 164.418717 0"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-9)" points="92.1427742 85.059973 80.3845694 0 164.418717 1.42108547e-14 97.1917553 88.2420412"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-10)" points="191.167814 1.42108547e-14 270 1.42108547e-14 270 77.2994216 191.167814 0"></polygon>
+            </g>
+            <path d="M254,127 L472,127 L472,345 L254,345 L254,127 Z M280,153 L280,319 L446,319 L446,153 L280,153 Z" id="Combined-Shape" fill="#F5F9E5"></path>
+            <path d="M306,179 L420,179 L420,293 L306,293 L306,179 Z M333,206 L333,266 L393,266 L393,206 L333,206 Z" id="Combined-Shape" fill="#F5F9E5"></path>
+            <g id="dots" transform="translate(15.000000, 8.000000)" fill="#97DCD3">
+                <path d="M8,4 C8,6.209 6.209,8 4,8 C1.791,8 0,6.209 0,4 C0,1.791 1.791,0 4,0 C6.209,0 8,1.791 8,4" id="Fill-6"></path>
+                <path d="M24,4 C24,6.209 22.209,8 20,8 C17.791,8 16,6.209 16,4 C16,1.791 17.791,0 20,0 C22.209,0 24,1.791 24,4" id="Fill-8"></path>
+                <path d="M40,4 C40,6.209 38.209,8 36,8 C33.791,8 32,6.209 32,4 C32,1.791 33.791,0 36,0 C38.209,0 40,1.791 40,4" id="Fill-10"></path>
+            </g>
+            <rect id="Rectangle" fill="#E5E9D6" x="59" y="51" width="106" height="16" rx="2"></rect>
+            <rect id="Rectangle-2" fill="#032A3F" x="591" y="394" width="70" height="14" rx="2"></rect>
+            <rect id="Rectangle-2-Copy" fill="#032A3F" x="578" y="422" width="96" height="3"></rect>
+        </g>
+        <g id="mobile" transform="translate(20.000000, 158.000000)">
+            <g id="mobile_bg">
+                <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                <use fill="#032A3F" fill-rule="evenodd" xlink:href="#path-11"></use>
+            </g>
+            <rect id="Rectangle-3" fill="#083F5D" x="45" y="44" width="100" height="16" rx="2"></rect>
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="93" cy="167" r="23"></circle>
+            <path d="M99,204 L109,204 C109,210.075132 113.924868,215 120,215 C126.075132,215 131,210.075132 131,204 L141,204 C141,215.59798 131.59798,225 120,225 C108.40202,225 99,215.59798 99,204 Z" id="Oval-4" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+            <path d="M74.9713158,109.875 L74.9713158,116.875 C70.8291802,116.875 67.4713158,120.232864 67.4713158,124.375 C67.4713158,128.517136 70.8291802,131.875 74.9713158,131.875 L74.9713158,138.875 C66.963187,138.875 60.4713158,132.383129 60.4713158,124.375 C60.4713158,116.366871 66.963187,109.875 74.9713158,109.875 Z" id="Oval-5" fill="url(#linearGradient-1)" fill-rule="nonzero" transform="translate(67.721316, 124.375000) rotate(-330.000000) translate(-67.721316, -124.375000) "></path>
+            <polygon id="Path-3" fill="url(#linearGradient-7)" points="126.59082 152.854492 148.992188 181.479492 162.739258 146.957031"></polygon>
+            <polygon id="Path-4" fill="url(#linearGradient-3)" points="20.8408203 215.333008 54.4472656 170.425781 76.2333984 222.161133"></polygon>
+            <rect id="Rectangle-4" fill="url(#linearGradient-7)" transform="translate(35.161842, 109.161842) rotate(9.000000) translate(-35.161842, -109.161842) " x="20.1618421" y="94.1618421" width="30" height="30"></rect>
+            <rect id="Rectangle-4-Copy" fill="url(#linearGradient-2)" transform="translate(159.636749, 232.636749) rotate(25.000000) translate(-159.636749, -232.636749) " x="151.63273" y="224.63273" width="16.0080371" height="16.0080371"></rect>
+            <polygon id="Combined-Shape" fill="url(#linearGradient-5)" points="119 108.5 127.5 108.5 127.5 118.5 119 118.5 119 127 109 127 109 118.5 100.5 118.5 100.5 108.5 109 108.5 109 100 119 100"></polygon>
+            <circle id="Oval-2" fill="url(#linearGradient-10)" cx="154" cy="112" r="9"></circle>
+            <circle id="Oval-3" fill="url(#linearGradient-1)" cx="27" cy="151" r="10"></circle>
+            <polygon id="Polygon" fill="url(#linearGradient-5)" points="40 228 44.7552826 231.454915 42.9389263 237.045085 37.0610737 237.045085 35.2447174 231.454915"></polygon>
+            <rect id="Rectangle-5" fill="#BFDDED" x="60" y="269" width="70" height="13" rx="2"></rect>
+            <rect id="Rectangle-5-Copy" fill="#BFDDED" x="46" y="295" width="98" height="3"></rect>
+        </g>
+        <g id="default" transform="translate(744.000000, 436.000000)" fill-rule="nonzero">
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+            </g>
+            <polygon id="Shape" fill="#000000" points="15.502 32.018 11.814 33.566 5.614 18.818 9.296 17.268 15.502 32.018"></polygon>
+            <polygon id="Shape" fill="#000000" points="2 4.814 2 27.19 7.938 21.458 8.794 21.18 18.33 21.18"></polygon>
+        </g>
+    </g>
+</svg>

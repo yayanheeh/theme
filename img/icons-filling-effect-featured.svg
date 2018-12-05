@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="840px" height="480px" viewBox="0 0 840 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icons-filling-effect-featured</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6,0 L184,0 C187.313708,-6.08718376e-16 190,2.6862915 190,6 L190,322 L0,322 L0,6 C-4.05812251e-16,2.6862915 2.6862915,6.08718376e-16 6,0 Z" id="path-1"></path>
+        <filter x="-18.9%" y="-9.9%" width="133.7%" height="119.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-4" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.198086504 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="13.9684862 23.238 18.168 33.378 18.17 33.38 10.958 36.448 6.44921752 25.7669727 0 32.03 0 0 23.182 23.238"></polygon>
+        <filter x="-133.7%" y="-79.6%" width="367.4%" height="270.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.201681386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons-filling-effect-featured">
+            <polygon id="bg" fill="#699EC0" points="0 480 840 480 840 0 0 0"></polygon>
+            <g id="desktop" transform="translate(20.000000, 26.000000)">
+                <path d="M726,454 L0,454 L0,6 C0,2.687 2.687,0 6,0 L720,0 C723.313,0 726,2.687 726,6 L726,454 Z" id="container_bg" fill="#3E243C"></path>
+                <g id="dots" transform="translate(15.000000, 8.000000)" fill="#71495B">
+                    <path d="M8,4 C8,6.209 6.209,8 4,8 C1.791,8 0,6.209 0,4 C0,1.791 1.791,0 4,0 C6.209,0 8,1.791 8,4" id="Fill-6"></path>
+                    <path d="M24,4 C24,6.209 22.209,8 20,8 C17.791,8 16,6.209 16,4 C16,1.791 17.791,0 20,0 C22.209,0 24,1.791 24,4" id="Fill-8"></path>
+                    <path d="M40,4 C40,6.209 38.209,8 36,8 C33.791,8 32,6.209 32,4 C32,1.791 33.791,0 36,0 C38.209,0 40,1.791 40,4" id="Fill-10"></path>
+                </g>
+                <g id="i-left" transform="translate(112.000000, 90.000000)">
+                    <path d="M87,0 L87,19 L12,19 C10.343,19 9,20.343 9,22 L9,118 C9,119.657 10.343,121 12,121 L162,121 C163.657,121 165,119.657 165,118 L165,22 C165,20.343 163.657,19 162,19 L95,19" id="Stroke-1" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <polygon id="Stroke-3" stroke="#EDC08D" stroke-width="2" stroke-linecap="square" points="17 102 157 102 157 28 17 28"></polygon>
+                    <path d="M17,36 L157,36" id="Stroke-5" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M22,32 C22,32.552 21.552,33 21,33 C20.448,33 20,32.552 20,32 C20,31.448 20.448,31 21,31 C21.552,31 22,31.448 22,32" id="Fill-6" fill="#EDC08D"></path>
+                    <path d="M26,32 C26,32.552 25.552,33 25,33 C24.448,33 24,32.552 24,32 C24,31.448 24.448,31 25,31 C25.552,31 26,31.448 26,32" id="Fill-7" fill="#EDC08D"></path>
+                    <path d="M30,32 C30,32.552 29.552,33 29,33 C28.448,33 28,32.552 28,32 C28,31.448 28.448,31 29,31 C29.552,31 30,31.448 30,32" id="Fill-8" fill="#EDC08D"></path>
+                    <path d="M39,36 L39,102" id="Stroke-9" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M39,48 L157,48" id="Stroke-10" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M48,42 L59,42" id="Stroke-11" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <polygon id="Stroke-12" stroke="#EDC08D" stroke-width="2" stroke-linecap="square" points="122 44 150 44 150 40 122 40"></polygon>
+                    <path d="M23,47 C23,44.239 25.239,42 28,42 C30.761,42 33,44.239 33,47 C33,49.761 30.761,52 28,52 C25.239,52 23,49.761 23,47 Z" id="Stroke-13" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M24,60 L32,60" id="Stroke-14" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M24,67 L32,67" id="Stroke-15" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M24,74 L32,74" id="Stroke-16" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M24,81 L32,81" id="Stroke-17" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <polygon id="Stroke-18" stroke="#EDC08D" stroke-width="2" stroke-linecap="square" points="49 71 147 71 147 57 49 57"></polygon>
+                    <path d="M62,57 L62,71" id="Stroke-19" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M71,64 L86,64" id="Stroke-20" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M93,64 L100,64" id="Stroke-21" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M134,64 C134,62.343 135.343,61 137,61 C138.657,61 140,62.343 140,64 C140,65.657 138.657,67 137,67 C135.343,67 134,65.657 134,64 Z" id="Stroke-22" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <polygon id="Stroke-23" stroke="#EDC08D" stroke-width="2" stroke-linecap="square" points="49 93 147 93 147 79 49 79"></polygon>
+                    <path d="M62,79 L62,93" id="Stroke-24" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M71,86 L86,86" id="Stroke-25" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M93,86 L100,86" id="Stroke-26" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M134,86 C134,84.343 135.343,83 137,83 C138.657,83 140,84.343 140,86 C140,87.657 138.657,89 137,89 C135.343,89 134,87.657 134,86 Z" id="Stroke-27" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M63,143 L63,121" id="Stroke-28" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M80,143 L52,143" id="Stroke-29" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M111,121 L111,143" id="Stroke-30" stroke="#EDC08D" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M87,165 L87,226 L42,226 C40.343,226 39,227.343 39,229 L39,262" id="Stroke-31" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square"></path>
+                    <polyline id="Stroke-32" stroke="#EDC08D" stroke-width="2" stroke-linecap="square" points="122 143 87 143 87 165"></polyline>
+                    <path d="M94,226 L170,226 C171.657,226 173,227.343 173,229 L173,317 C173,318.657 171.657,320 170,320 L46,320" id="Stroke-33" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M0,270 L46,270" id="Stroke-34" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M0,278 L46,278" id="Stroke-35" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M20,274 L25,274" id="Stroke-36" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square"></path>
+                    <polygon id="Stroke-37" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square" points="5 306 41 306 41 284 5 284"></polygon>
+                    <path d="M5,300 L41,300" id="Stroke-38" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square"></path>
+                    <polygon id="Stroke-39" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square" points="5 332 41 332 41 310 5 310"></polygon>
+                    <path d="M5,326 L41,326" id="Stroke-40" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M22,266 C22,265.447 22.448,265 23,265 C23.552,265 24,265.447 24,266 C24,266.553 23.552,267 23,267 C22.448,267 22,266.553 22,266" id="Fill-41" fill="#6B4B5A"></path>
+                    <polygon id="Stroke-42" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square" points="51 314 161 314 161 232 51 232"></polygon>
+                    <path d="M51,241 L161,241" id="Stroke-43" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M101,236 L111,236" id="Stroke-44" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square"></path>
+                    <polygon id="Stroke-45" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square" points="59 280 103 280 103 249 59 249"></polygon>
+                    <path d="M59,273 L103,273" id="Stroke-46" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square"></path>
+                    <polygon id="Stroke-47" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square" points="109 280 153 280 153 249 109 249"></polygon>
+                    <path d="M109,273 L153,273" id="Stroke-48" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square"></path>
+                    <polyline id="Stroke-49" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square" points="59 314 59 287 103 287 103 314"></polyline>
+                    <polyline id="Stroke-50" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square" points="109 314 109 287 153 287 153 314"></polyline>
+                    <path d="M17,338 L3,338 C1.343,338 0,336.657 0,335 L0,265 C0,263.343 1.343,262 3,262 L43,262 C44.657,262 46,263.343 46,265 L46,335 C46,336.657 44.657,338 43,338 L23,338 L23,351 L87,351 L87,363" id="Stroke-51" stroke="#6B4B5A" stroke-width="2" stroke-linecap="square"></path>
+                </g>
+                <rect id="Rectangle" fill="#FFFFFF" x="345" y="136" width="206" height="12" rx="2"></rect>
+                <rect id="Rectangle-Copy-3" fill="#71495B" x="345" y="336" width="206" height="12" rx="2"></rect>
+                <rect id="Rectangle-Copy" fill="#FFFFFF" x="345" y="173" width="216" height="9" rx="1"></rect>
+                <rect id="Rectangle-Copy-4" fill="#71495B" x="345" y="373" width="216" height="9" rx="1"></rect>
+                <rect id="Rectangle-Copy-2" fill="#FFFFFF" x="345" y="198" width="156" height="9" rx="1"></rect>
+                <rect id="Rectangle-Copy-5" fill="#71495B" x="345" y="398" width="156" height="9" rx="1"></rect>
+            </g>
+            <g id="mobile" transform="translate(630.000000, 158.000000)">
+                <g id="mobile_bg">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#3E243C" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="i-right" transform="translate(15.000000, 38.000000)" stroke-linecap="square" stroke-width="2">
+                    <path d="M0,49 C0,35.745 10.745,25 24,25 C37.255,25 48,35.745 48,49 C48,62.255 37.255,73 24,73 C10.745,73 0,62.255 0,49 Z" id="Stroke-1" stroke="#EDC08D"></path>
+                    <path d="M0,192 C0,178.745 10.745,168 24,168 C37.255,168 48,178.745 48,192 C48,205.255 37.255,216 24,216 C10.745,216 0,205.255 0,192 Z" id="Stroke-3" stroke="#6B4B5A"></path>
+                    <path d="M24,0 L24,25" id="Stroke-5" stroke="#EDC08D"></path>
+                    <path d="M24,120 L24,168" id="Stroke-7" stroke="#6B4B5A"></path>
+                    <path d="M24,73 L24,120" id="Stroke-9" stroke="#EDC08D"></path>
+                    <path d="M24,283 L24,217" id="Stroke-11" stroke="#6B4B5A"></path>
+                    <path d="M31,206 L17,206 C15.896,206 15,205.104 15,204 L15,180 C15,178.896 15.896,178 17,178 L31,178 C32.104,178 33,178.896 33,180 L33,204 C33,205.104 32.104,206 31,206 Z" id="Stroke-13" stroke="#6B4B5A"></path>
+                    <path d="M15,183 L33,183" id="Stroke-15" stroke="#6B4B5A"></path>
+                    <path d="M15,200 L33,200" id="Stroke-17" stroke="#6B4B5A"></path>
+                    <path d="M35,55 L13,55 C11.896,55 11,54.104 11,53 L11,39 C11,37.896 11.896,37 13,37 L35,37 C36.104,37 37,37.896 37,39 L37,53 C37,54.104 36.104,55 35,55 Z" id="Stroke-19" stroke="#EDC08D"></path>
+                    <path d="M20,61 L20,55" id="Stroke-21" stroke="#EDC08D"></path>
+                    <path d="M28,61 L28,55" id="Stroke-23" stroke="#EDC08D"></path>
+                    <path d="M16,61 L32,61" id="Stroke-25" stroke="#EDC08D"></path>
+                    <polygon id="Stroke-27" stroke="#EDC08D" points="15 51 33 51 33 41 15 41"></polygon>
+                </g>
+                <path d="M0,7 L0,6 C0,2.687 2.0769043,0 6,0 L184,0 C188.06543,0 190,2.687 190,6 L190,7 C190,3.687 187.313,1 184,1 L6,1 C2.687,1 0,3.687 0,7 Z" id="inner-shadow" fill="#FFFFFF" opacity="0.196388134"></path>
+                <rect id="Rectangle-2" fill="#FFFFFF" x="77" y="66" width="94" height="11" rx="2"></rect>
+                <rect id="Rectangle-2-Copy-3" fill="#71495B" x="77" y="210" width="94" height="11" rx="2"></rect>
+                <rect id="Rectangle-2-Copy" fill="#FFFFFF" x="77" y="85" width="85" height="7" rx="1"></rect>
+                <rect id="Rectangle-2-Copy-4" fill="#71495B" x="77" y="229" width="85" height="7" rx="1"></rect>
+                <rect id="Rectangle-2-Copy-2" fill="#FFFFFF" x="77" y="99" width="46" height="7" rx="1"></rect>
+                <rect id="Rectangle-2-Copy-5" fill="#71495B" x="77" y="243" width="46" height="7" rx="1"></rect>
+            </g>
+            <g id="default" transform="translate(420.000000, 225.000000)" fill-rule="nonzero">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <polygon id="Shape" fill="#000000" points="15.502 32.018 11.814 33.566 5.614 18.818 9.296 17.268 15.502 32.018"></polygon>
+                <polygon id="Shape" fill="#000000" points="2 4.814 2 27.19 7.938 21.458 8.794 21.18 18.33 21.18"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

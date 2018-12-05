@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="840px" height="480px" viewBox="0 0 840 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>auto-hiding-navigation-featured</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M190,322 L0,322 L0,6 C0,2.687 2.687,0 6,0 L184,0 C187.313,0 190,2.687 190,6 L190,322 Z" id="path-1"></path>
+        <filter x="-14.7%" y="-9.9%" width="133.7%" height="119.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="4" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.203151573   0 0 0 0 0.052579417   0 0 0 0 0.185643183  0 0 0 0.0868432971 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M0,192 L0,6 C0,2.687 2.687,0 6,0 L184,0 C187.313,0 190,2.687 190,6 L190,192 L0,192 Z" id="path-3"></path>
+        <filter x="-14.7%" y="-16.7%" width="133.7%" height="133.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="4" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.203151573   0 0 0 0 0.052579417   0 0 0 0 0.185643183  0 0 0 0.168676404 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-5" points="13.9684862 23.238 18.168 33.378 18.17 33.38 10.958 36.448 6.44921752 25.7669727 0 32.03 0 0 23.182 23.238"></polygon>
+        <filter x="-133.7%" y="-79.6%" width="367.4%" height="270.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.201681386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="auto-hiding-navigation-featured" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="bg" fill="#5B9279" points="0 480 840 480 840 0 0 0"></polygon>
+        <g id="desktop" transform="translate(94.000000, 26.000000)">
+            <path d="M726,454 L0,454 L0,6 C0,2.687 2.687,0 6,0 L720,0 C723.313,0 726,2.687 726,6 L726,454 Z" id="container_bg" fill="#FFFFFF"></path>
+            <rect id="Rectangle-3" fill="#25273E" x="0" y="96" width="726" height="72"></rect>
+            <rect id="Rectangle-3-Copy" fill="#ECF0F1" x="0" y="168" width="726" height="286"></rect>
+            <rect id="Rectangle-5" fill="#D7DCDD" x="130" y="204" width="466" height="16" rx="2"></rect>
+            <rect id="Rectangle-5-Copy" fill="#D7DCDD" x="130" y="246" width="466" height="16" rx="2"></rect>
+            <rect id="Rectangle-5-Copy-2" fill="#D7DCDD" x="130" y="288" width="466" height="16" rx="2"></rect>
+            <rect id="Rectangle-5-Copy-3" fill="#D7DCDD" x="130" y="330" width="345" height="16" rx="2"></rect>
+            <rect id="Rectangle-5-Copy-4" fill="#D7DCDD" x="130" y="372" width="466" height="16" rx="2"></rect>
+            <rect id="Rectangle-5-Copy-5" fill="#D7DCDD" x="130" y="414" width="466" height="16" rx="2"></rect>
+            <rect id="Path" fill="#903686" x="459" y="164" width="92" height="4"></rect>
+            <rect id="Rectangle-4" fill="#3C3F59" x="189" y="124" width="63" height="14" rx="2"></rect>
+            <rect id="Rectangle-4-Copy" fill="#3C3F59" x="284" y="124" width="63" height="14" rx="2"></rect>
+            <rect id="Rectangle-4-Copy-2" fill="#3C3F59" x="379" y="124" width="63" height="14" rx="2"></rect>
+            <rect id="Rectangle-4-Copy-3" fill="#FFFFFF" x="474" y="124" width="63" height="14" rx="2"></rect>
+            <g id="dots" transform="translate(15.000000, 8.000000)" fill="#5B9279">
+                <path d="M8,4 C8,6.209 6.209,8 4,8 C1.791,8 0,6.209 0,4 C0,1.791 1.791,0 4,0 C6.209,0 8,1.791 8,4" id="Fill-6"></path>
+                <path d="M24,4 C24,6.209 22.209,8 20,8 C17.791,8 16,6.209 16,4 C16,1.791 17.791,0 20,0 C22.209,0 24,1.791 24,4" id="Fill-8"></path>
+                <path d="M40,4 C40,6.209 38.209,8 36,8 C33.791,8 32,6.209 32,4 C32,1.791 33.791,0 36,0 C38.209,0 40,1.791 40,4" id="Fill-10"></path>
+            </g>
+            <rect id="Rectangle-2" fill="#D7DCDD" x="411" y="49" width="78" height="14" rx="2"></rect>
+            <rect id="Rectangle-2-Copy" fill="#D7DCDD" x="518" y="49" width="60" height="14" rx="2"></rect>
+            <rect id="Rectangle-2-Copy-2" fill="#D7DCDD" x="607" y="49" width="78" height="14" rx="2"></rect>
+            <g id="logo" transform="translate(38.000000, 45.000000)">
+                <rect id="Rectangle" fill="#8F3985" x="0" y="0" width="70" height="24"></rect>
+                <rect id="Rectangle-Copy" fill="#AA63A5" x="70" y="0" width="24" height="24"></rect>
+                <rect id="Rectangle-Copy-2" fill="#ECF0F1" x="94" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+        <g id="mobile" transform="translate(20.000000, 158.000000)">
+            <g id="container_bg">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#ECF0F1" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <g id="x" transform="translate(165.000000, 19.000000)" stroke="#25273E" stroke-linecap="square" stroke-width="4">
+                <path d="M0,0 L9.01086443,9.01086443" id="Line"></path>
+                <path d="M9.01086443,0 L0,9.01086443" id="Line-Copy"></path>
+            </g>
+            <rect id="Rectangle-6" fill="#ECF0F1" x="0" y="47" width="190" height="2"></rect>
+            <rect id="Rectangle-6-Copy" fill="#ECF0F1" x="0" y="94" width="190" height="2"></rect>
+            <rect id="Rectangle-6-Copy-2" fill="#ECF0F1" x="0" y="141" width="190" height="2"></rect>
+            <rect id="Rectangle-7" fill="#8F3985" x="15" y="14" width="60" height="20"></rect>
+            <rect id="Rectangle-7-Copy-3" fill="#D7DCDD" x="15" y="65" width="80" height="14" rx="2"></rect>
+            <rect id="Rectangle-7-Copy-4" fill="#D7DCDD" x="15" y="111" width="80" height="14" rx="2"></rect>
+            <rect id="Rectangle-7-Copy-5" fill="#D7DCDD" x="15" y="161" width="80" height="14" rx="2"></rect>
+            <rect id="Rectangle-7-Copy" fill="#AA63A5" x="75" y="14" width="20" height="20"></rect>
+            <rect id="Rectangle-7-Copy-2" fill="#ECF0F1" x="95" y="14" width="20" height="20"></rect>
+        </g>
+        <g id="default" transform="translate(618.000000, 179.000000)" fill-rule="nonzero">
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+            <polygon id="Shape" fill="#000000" points="15.502 32.018 11.814 33.566 5.614 18.818 9.296 17.268 15.502 32.018"></polygon>
+            <polygon id="Shape" fill="#000000" points="2 4.814 2 27.19 7.938 21.458 8.794 21.18 18.33 21.18"></polygon>
+        </g>
+    </g>
+</svg>
