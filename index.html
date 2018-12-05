@@ -1,226 +1,72 @@
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 <style>
-/** Cosmetics. Delete this */
-html, body {  
-	position: relative;
-  min-height: 100%;
-  width: 100%;
-}
-body {  
-  background: linear-gradient(to top, #2061AB, #2192DE);
-  padding: 32px;
-	display: flex;
-	flex-wrap: nowrap;
-	justify-content: center;
-	align-content: center;
-	align-items: center;
-	flex-direction: row;
-}
-/** End of Cosmetics */
-
-
-* { box-sizing: border-box; } // !important 
-
-// Mobile Phone
-$platform-mobile-phone-bg:				#999999;
-$platform-mobile-phone-border-color:	lighten($platform-mobile-phone-bg, 15%);
-$platform-mobile-phone-radius:			20px;
-
-// The phone (viewport)
-$phone-result-width:					300px;
-
-// Phone Frame
-$phone-result-frame-top-width:			40px;
-$phone-result-frame-side-width:			7px;
-$phone-result-frame-bottom-width:		60px;
-$phone-result-frame:					$phone-result-frame-top-width $phone-result-frame-side-width $phone-result-frame-bottom-width $phone-result-frame-side-width;
-
-// Phone border
-$phone-result-border-width:				3px;
-
-// Phone Assets
-$phone-assets-top-width:				$phone-result-width * 0.2;
-$phone-assets-top-height:				8px;
-$phone-assets-top-offset:				( ($phone-result-frame-top-width) / 2) - $phone-result-border-width;
-
-$phone-assets-right-width:				4px;
-$phone-assets-right-height:				50px;
-$phone-assets-right-top-offset:			$phone-result-frame-top-width * 1.5;
-$phone-assets-right-right-offset:		- $phone-assets-right-width - $phone-result-border-width;
-
-$phone-assets-bottom-width:				$phone-assets-top-width;
-$phone-assets-bottom-height:			$phone-result-frame-bottom-width / 3;
-$phone-assets-bottom-offset:			$phone-result-frame-bottom-width / 3.5;
-
-$phone-assets-left-width:	        $phone-assets-right-width;
-$phone-assets-left-height:				100px;
-$phone-assets-left-top-offset:		$phone-result-frame-top-width * 2;
-$phone-assets-left-left-offset:		- $phone-assets-left-width - $phone-result-border-width;
-
-.phone-container {
-	position: relative;
-	width: $phone-result-width;
-  height: auto;
-	margin: 0 auto;
+body {
+  background: #f1f1f1;
 }
 
-.phone-frame {
-	position: relative;
-	top: 0;
-	height: 100%;
-	background-image: url('../images/loader.gif');
-	background-size: 5em 5em;
-	background-position: 50% 50%;
-	background-repeat: no-repeat;
-    background-color: #383838;
-	&.phone {		
-		width: 100%;
-	    border: $phone-result-frame-top-width solid $platform-mobile-phone-bg;
-	    border-width: $phone-result-frame;
-	    border-radius: $platform-mobile-phone-radius;
-	    overflow: hidden;
-	    transition: all 0.5s ease;
-	}
-	.frame, .mSite-preview {
-		top: 0;
-		left: 0;
-	}
-	.frame {
-		position: relative;
-		height: 100%;
-		width: 100%;
-		z-index: 5;
-	}
+/* The laptop with borders */
+.laptop {
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transform: scale(.6) translate(-50%); /* Scaled down for a better Try-it experience (change to 1 for full scale) */
+  transform: scale(.6) translate(-50%); /* Scaled down for a better Try-it experience (change to 1 for full scale) */
+  left: 50%;
+  position: absolute;
+  width: 1366px;
+  height: 800px;
+  border-radius: 6px;
+  border-style: solid;
+  border-color: black;
+  border-width: 24px 24px 80px;
+  background-color: black;
+
 }
 
-// Border
-.phone-border {
-	position: relative;
-	border-width: $phone-result-border-width;
-	border-color: $platform-mobile-phone-border-color;
-	border-style: solid;
-	border-top-width: floor( $phone-result-border-width / 1.25 );
-	border-bottom-width: ceil( $phone-result-border-width * 1.25 );
-	border-radius: $platform-mobile-phone-radius + ($platform-mobile-phone-radius / 5);
-    display: block;
-    left: 0;
-    top: 0;
+/* The keyboard of the laptop */
+.laptop:after {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 1600px;
+  height: 60px;
+  margin: 80px 0 0 -110px;
+  background: black;
+  border-radius: 6px;
 }
 
-// Smartphone Features
-.phone-assets {
-	position: absolute;	
-    left: 0;
-    width: 100%;
-}
-.phone-assets {
-	&.-top, &.-bottom, {
-		position: absolute;
-		left: 0;
-		right: 0;
-		margin: auto;		
-	}
-	&.-top {
-		width: 	$phone-assets-top-width;
-		height: $phone-assets-top-height;
-		top: 	$phone-assets-top-offset;
-	}
-	&.-bottom {
-		width: 	$phone-assets-bottom-width;
-		height: $phone-assets-bottom-height;
-		bottom: $phone-assets-bottom-offset;
-	}
-	&.-right {
-		width: 	$phone-assets-right-width;
-		height: $phone-assets-right-height;
-		top: 	$phone-assets-right-top-offset;
-		right: 	$phone-assets-right-right-offset;
-		left: initial;
-	}
-	&.-left {
-		width: 	$phone-assets-left-width;
-		height: $phone-assets-left-height;
-		top: 	$phone-assets-left-top-offset;
-		right: 	initial;
-		left: 	$phone-assets-left-left-offset;
-	}
-  .speakers, .front-camera, .home-button {
-    	background-color: darken($platform-mobile-phone-border-color, 30%);
-		  box-shadow: 0 1px 0 0 rgba(255,255,255, 0.3), 0 -1px 0 0 rgba(0,0,0, 0.5);
-  }
-  .speakers {
-    	position: absolute;
-    	top: 0;
-    	left: 0;
-		  width: 100%;
-		  height: 100%;
-    	border-radius: 8px;
-  }
-	.front-camera {
-		position: absolute;
-		right: 8px * -2;
-		width: 8px;
-		height: 8px;
-		border-radius: 50%;
-		top: 0;
-	}
-	.volumen-control, .block-control {
-		background-color: darken($platform-mobile-phone-border-color, 15%);
-		width: 100%;
-		height: 100%;	
-	}
-	.volumen-control {
-		border-radius: 3px 0px 0px 3px;
-	}
-	.block-control {
-		border-radius: 0 3px 3px 0;
-	}
-	.home-button {
-		width: 100%;
-		height: 100%;
-    	border-radius: 4px;
-	}	
+/* The top of the keyboard */
+.laptop:before {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 250px;
+  height: 30px;
+  bottom: -110px;
+  left: 50%;
+  -webkit-transform: translate(-50%);
+  transform: translate(-50%);
+  background: #f1f1f1;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  z-index: 1;
 }
 
-
-// <iframe>
-.preview {
-  position: relative;
-	display: block;
-	border: none;
-	width: 300px;
-	height: 460px;
+/* The screen (or content) of the device */
+.laptop .content {
+  width: 1366px;
+  height: 800px;
+  overflow: hidden;
+  border: none;
 }
-
-// Z Align
-.phone-assets { z-index: 30; }
-.phone-border { z-index: 20; }
-.preview { z-index: 10; }
 </style>
-
 <div class="container">
   <div class="row">
     <div class="col">
       1 of 2
     </div>
-    <div class="phone-container">
-  <div class="phone-border">
-      <div class="phone-assets -top">
-          <div class="speakers"></div>
-          <div class="front-camera"></div>
-      </div>
-      <div class="phone-assets -right">
-          <div class="block-control"></div>
-      </div>
-      <div class="phone-assets -left">
-          <div class="volumen-control"></div>
-      </div>
-      <div class="phone-assets -bottom">
-          <div class="home-button"></div>
-      </div>
-      <div class="phone-frame phone">
-        <iframe class="preview" src="https://www.google.com.ar"></iframe>
-      </div>
+    <div class="laptop">
+  <div class="content">
+    <iframe src="/w3css/tryw3css_templates_band.htm" style="width:100%;border:none;height:100%" />
   </div>
 </div>
